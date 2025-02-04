@@ -1,0 +1,8 @@
+#this program is for debit
+  #inlclude <stdio.h>
+  main ()
+{
+  print "hellow world"
+}
+welcome to kolkata - dev2
+hello bangalore - dev1
